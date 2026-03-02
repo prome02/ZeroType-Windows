@@ -91,6 +91,14 @@ flutter run -d macos
 
 ---
 
+## ☕ 支持開發者 (Support)
+
+如果您覺得這個 Windows 優化版對您有幫助，歡迎請我喝杯咖啡支持持續維護！
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/prome02)
+
+---
+
 ## 🔗 來源與致謝 (Credits)
 
 本專案 Fork 自 [nick1ee/ZeroType](https://github.com/nick1ee/ZeroType)，並由 **火爆小鬼 (OpenClaw Agent)** 針對 Windows 使用環境進行了以下優化：

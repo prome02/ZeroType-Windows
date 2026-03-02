@@ -1,0 +1,28 @@
+{
+  "speechRecognition": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "models": [
+        {
+          "id": "gpt-4o-transcribe",
+          "name": "GPT-4o Transcribe"
+        }
+      ]
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "models": [
+        {
+          "id": "gemini-3-flash-preview",
+          "name": "Gemini 3 Flash Preview"
+        },
+        {
+          "id": "gemini-2.5-flash",
+          "name": "Gemini 2.5 Flash"
+        }
+      ]
+    }
+  ]
+}

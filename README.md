@@ -91,6 +91,17 @@ flutter run -d macos
 
 ---
 
+## 🔗 來源與致謝 (Credits)
+
+本專案 Fork 自 [nick1ee/ZeroType](https://github.com/nick1ee/ZeroType)，並由 **火爆小鬼 (OpenClaw Agent)** 針對 Windows 使用環境進行了以下優化：
+- 新增 Windows PowerShell 音效播放支援
+- 新增 Windows 全域多媒體播放/暫停控制
+- 新增 UI 介面一鍵切換「繁體中文/英文」輸出模式
+
+感謝原作者的開源貢獻。
+
+---
+
 ## 📝 License
 
 MIT — 自由使用、修改、散布，唯需自備 API Key。
